@@ -62,6 +62,6 @@ Train Score - 0.8472 , Test Score - 0.8814
 
 
 
-# ANN
+### ANN
 
 The Artificial Neural Network has also given us a good enough Accuracy Score for our model(87.31%), which is in sync with the accuracy scores of our other models so the perceptron model is said to be working for our dataset.
